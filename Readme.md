@@ -35,4 +35,7 @@ See `requirements.txt` for a list of required Python packages.
 
 - [VGG-16 Paper](https://arxiv.org/abs/1409.1556)
 - [Keras Documentation](https://keras.io/)
+
 - [Udacity Dog Project](https://github.com/udacity/dog-project)
+
+  👨‍💻 Author Muhammad Muaaz
